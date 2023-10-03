@@ -11,11 +11,11 @@
 | STT | MSSV | Họ và Tên | Gmail |
 |----|-------|------|-------|
 | 1 | 21520286 | Trần Quang Khánh |  |
-| 2 | 21520287 | Đào Hải Đăng |  |
-| 3 | 21520288 | Nguyễn Tấn Thành |  |
-| 4 | 21520289 | Đỗ Nguyên Triết |  |
-| 5 | 21520289 | Nguyễn Phúc Thọ |  |
-| 6 | 21520289 | Thái Minh Đức |  |
+| 2 | 2152 | Đào Hải Đăng |  |
+| 3 | 2152 | Nguyễn Tấn Thành |  |
+| 4 | 2152 | Đỗ Nguyên Triết |  |
+| 5 | 2152 | Nguyễn Phúc Thọ |  |
+| 6 | 2152 | Thái Minh Đức |  |
 
 </p>
 
