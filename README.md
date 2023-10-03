@@ -5,18 +5,17 @@
 <h1 align="center">Phát triển ứng dụng Web</h1>
 
 ## Thành viên nhóm
-
-<p align="center">
+<span align="center">
   
-| STT | MSSV | Họ và Tên | Gmail |
-|----|-------|------|-------|
-| 1 | 21520286 | Trần Quang Khánh |  |
-| 2 | 2152 | Đào Hải Đăng |  |
-| 3 | 2152 | Nguyễn Tấn Thành |  |
-| 4 | 2152 | Đỗ Nguyên Triết |  |
-| 5 | 2152 | Nguyễn Phúc Thọ |  |
-| 6 | 2152 | Thái Minh Đức |  |
+                | STT | MSSV | Họ và Tên | Gmail |
+                |----|-------|------|-------|
+                | 1 | 21520286 | Trần Quang Khánh |  |
+                | 2 | 21521919 | Đào Hải Đăng |  |
+                | 3 | 21521445 | Nguyễn Tấn Thành |  |
+                | 4 | 21522711 | Đỗ Nguyên Triết |  |
+                | 5 | 21521478 | Nguyễn Phúc Thọ |  |
+                | 6 | 21520733 | Thái Minh Đức |  |
 
-</p>
+</span>
 
 
