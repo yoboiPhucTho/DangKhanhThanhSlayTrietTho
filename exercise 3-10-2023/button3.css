@@ -1,3 +1,16 @@
 /*Khánh*/
 
-Khong code
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    .btn-success {
+      position: absolute;
+      text-decoration: none;
+      padding: 20px 30px;
+      color: white;
+      background-color: rgb(15, 237, 15);
+      border-radius: 10px;
+      margin-top: 10px;
+    }
