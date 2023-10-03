@@ -1,1 +1,11 @@
 /*Đăng*/
+.btn-info {
+    background-color: rgb(156, 225, 255);
+}
+
+.btn {
+    text-decoration: none;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin: 10px 10px;
+}
